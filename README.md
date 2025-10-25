@@ -26,6 +26,7 @@ Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y proyec
 
 ```bash
 📦 Curso-Python
+ ┣ 📁 00_fundamentos
  ┣ 📁 01_basicos
  ┣ 📁 02_estructuras
  ┣ 📁 03_funciones
