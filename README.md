@@ -36,7 +36,6 @@ Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini p
 ---
 
 ## 🗂️ Estructura del curso
-
 ```bash
 📦 Curso-Python
  ┣ 📁 01_basicos
@@ -47,6 +46,9 @@ Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini p
  ┣ 📁 06_proyectos
  ┣ 📄 requirements.txt
  ┗ 📜 main.py
+```
+
+---
 
 ## 🎯 Objetivos del curso
 
@@ -84,3 +86,9 @@ Técnico Superior en Informática y Telecomunicaciones.
 Apasionado por la programación, los sistemas y la inteligencia artificial.
 
 🌐 [GitHub](https://github.com/juanantoniocomins) · [LinkedIn](#) · [Portfolio](#)
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
