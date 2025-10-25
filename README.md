@@ -55,18 +55,47 @@ Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini p
 ✔️ Dominar la POO y el uso de librerías modernas.
 ✔️ Prepararte para proyectos reales de IA, Big Data o desarrollo web.
 
-🧰 Tecnologías y herramientas
-Herramienta	Uso principal
-🐍 Python 3.x	Lenguaje base
-💻 VS Code / Jupyter	Entorno de desarrollo
-⚙️ Git / GitHub	Control de versiones
+## 🧰 Tecnologías y herramientas
 
-👨‍💻 Autor
+<p align="center">
+  <table>
+    <tr>
+      <th>Herramienta</th>
+      <th>Uso principal</th>
+    </tr>
+    <tr>
+      <td>🐍 <strong>Python 3.x</strong></td>
+      <td>Lenguaje base</td>
+    </tr>
+    <tr>
+      <td>💻 <strong>VS Code / Jupyter</strong></td>
+      <td>Entorno de desarrollo</td>
+    </tr>
+    <tr>
+      <td>⚙️ <strong>Git / GitHub</strong></td>
+      <td>Control de versiones</td>
+    </tr>
+    <tr>
+      <td>📦 <strong>pip / venv</strong></td>
+      <td>Gestión de dependencias</td>
+    </tr>
+  </table>
+</p>
 
-Juan Antonio Comins
-Técnico Superior en Informática y Telecomunicaciones.
-Apasionado por la programación, los sistemas y la inteligencia artificial.
+---
 
-🌐 GitHub
- · LinkedIn
- · Portfolio
+## 👨‍💻 Autor
+
+<p align="center">
+  <strong>Juan Antonio Comins</strong><br>
+  Técnico Superior en Informática y Telecomunicaciones.<br>
+  Apasionado por la programación, los sistemas y la inteligencia artificial.
+</p>
+
+<p align="center">
+  🌐
+  <a href="https://github.com/juanantoniocomins" target="_blank">GitHub</a> ·
+  <a href="#" target="_blank">LinkedIn</a> ·
+  <a href="#" target="_blank">Portfolio</a>
+</p>
+
