@@ -48,39 +48,56 @@ Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini p
  ┣ 📄 requirements.txt
  ┗ 📜 main.py
 
-🎯 Objetivos del curso
+## 🎯 Objetivos del curso
 
-✔️ Comprender los fundamentos de Python con solidez.
-✔️ Aprender buenas prácticas y escribir código limpio.
-✔️ Dominar la POO y el uso de librerías modernas.
-✔️ Prepararte para proyectos reales de IA, Big Data o desarrollo web.
+- ✔️ **Comprender** los fundamentos de Python con solidez.  
+- ✔️ **Aprender buenas prácticas** y escribir código limpio y mantenible.  
+- ✔️ **Dominar POO** y el uso de librerías modernas.  
+- ✔️ **Prepararte** para proyectos reales en IA, Big Data o desarrollo web.
+
+---
 
 ## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <table>
+
+<table>
+  <thead>
     <tr>
-      <th>Herramienta</th>
-      <th>Uso principal</th>
+      <th align="left">Herramienta</th>
+      <th align="left">Uso principal</th>
     </tr>
+  </thead>
+  <tbody>
     <tr>
       <td>🐍 <strong>Python 3.x</strong></td>
-      <td>Lenguaje base</td>
+      <td>Lenguaje base — sintaxis, librerías y ecosistema.</td>
     </tr>
     <tr>
       <td>💻 <strong>VS Code / Jupyter</strong></td>
-      <td>Entorno de desarrollo</td>
+      <td>Entorno de desarrollo y notebooks interactivos.</td>
     </tr>
     <tr>
       <td>⚙️ <strong>Git / GitHub</strong></td>
-      <td>Control de versiones</td>
+      <td>Control de versiones, flujos de trabajo y despliegue.</td>
     </tr>
     <tr>
       <td>📦 <strong>pip / venv</strong></td>
-      <td>Gestión de dependencias</td>
+      <td>Gestión de dependencias y entornos virtuales.</td>
     </tr>
-  </table>
+  </tbody>
+</table>
+
 </p>
+
+---
+
+## 🌱 Próximas mejoras
+
+- [ ] Incorporar notebooks interactivos (Jupyter).  
+- [ ] Añadir ejemplos de automatización real.  
+- [ ] Mini proyecto de API con **Flask** o **FastAPI**.  
+- [ ] Integrar análisis de datos con **Pandas** y **NumPy**.
 
 ---
 
@@ -94,8 +111,9 @@ Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini p
 
 <p align="center">
   🌐
-  <a href="https://github.com/juanantoniocomins" target="_blank">GitHub</a> ·
-  <a href="#" target="_blank">LinkedIn</a> ·
+  <a href="https://github.com/juanantoniocomins" target="_blank">GitHub</a> &nbsp;·&nbsp;
+  <a href="#" target="_blank">LinkedIn</a> &nbsp;·&nbsp;
   <a href="#" target="_blank">Portfolio</a>
 </p>
 
+---
