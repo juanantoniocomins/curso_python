@@ -47,3 +47,26 @@ Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini p
  ┣ 📁 06_proyectos
  ┣ 📄 requirements.txt
  ┗ 📜 main.py
+
+🎯 Objetivos del curso
+
+✔️ Comprender los fundamentos de Python con solidez.
+✔️ Aprender buenas prácticas y escribir código limpio.
+✔️ Dominar la POO y el uso de librerías modernas.
+✔️ Prepararte para proyectos reales de IA, Big Data o desarrollo web.
+
+🧰 Tecnologías y herramientas
+Herramienta	Uso principal
+🐍 Python 3.x	Lenguaje base
+💻 VS Code / Jupyter	Entorno de desarrollo
+⚙️ Git / GitHub	Control de versiones
+
+👨‍💻 Autor
+
+Juan Antonio Comins
+Técnico Superior en Informática y Telecomunicaciones.
+Apasionado por la programación, los sistemas y la inteligencia artificial.
+
+🌐 GitHub
+ · LinkedIn
+ · Portfolio
