@@ -1,32 +1,44 @@
+<!-- ======================================== -->
+<!--        README.md — Curso de Python        -->
+<!--        Autor: Juan Antonio Comins         -->
+<!-- ======================================== -->
+
+<!-- Banner principal -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juanantoniocomins/curso_python/main/assets/banner_python.png" alt="Curso de Python — Nivel Profesional" width="800">
+</p>
+
 <h1 align="center">🐍 Curso de Python — Nivel Profesional</h1>
 
 <p align="center">
-  <strong>Aprende Python desde la práctica, con ejemplos reales y proyectos útiles.</strong><br>
+  <em>Aprende Python desde la práctica, con ejemplos reales y proyectos útiles.</em><br>
   <em>Diseñado para quienes quieren dominar el lenguaje de forma sólida y moderna.</em>
 </p>
 
+<!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Estado-Activo-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Licencia-MIT-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Estado-Activo-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Licencia-MIT-lightgrey?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📘 Descripción
+## 🧠 Descripción
 
-Este repositorio forma parte de mi **curso de Python**, donde se abordan desde los fundamentos hasta temas avanzados de desarrollo moderno:  
-estructuras de datos, programación orientada a objetos, manejo de errores, ficheros, librerías útiles, automatización y más.
+Este repositorio forma parte de mi **curso de Python**, donde se abordan desde los fundamentos hasta temas avanzados:  
+estructuras de datos, programación orientada a objetos, manejo de errores, ficheros, módulos, librerías útiles y automatización.  
 
-Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y proyectos cortos que consolidan el aprendizaje.
+Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini proyectos que consolidan el aprendizaje paso a paso.
+
+> 💡 **Consejo:** sigue el orden de los módulos para aprovechar la curva de aprendizaje progresiva.
 
 ---
 
-## 🧩 Estructura del curso
+## 🗂️ Estructura del curso
 
 ```bash
 📦 Curso-Python
- ┣ 📁 00_fundamentos
  ┣ 📁 01_basicos
  ┣ 📁 02_estructuras
  ┣ 📁 03_funciones
