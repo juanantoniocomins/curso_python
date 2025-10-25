@@ -36,7 +36,7 @@ Este repositorio contiene el material completo de mi **curso de Python profesion
 
 Cada módulo incluye explicaciones claras, ejemplos comentados, ejercicios progresivos y mini proyectos que consolidan el aprendizaje. El curso está pensado tanto para principiantes que quieren bases sólidas como para desarrolladores que buscan perfeccionar sus habilidades.
 
-> 💡 **Recomendación:** Sigue el orden de los módulos, completa los ejercicios y experimenta modificando el código para profundizar en tu comprensión.
+> 💡 **Recomendación:** Sigue el orden de los módulos y experimenta modificando el código para profundizar en tu comprensión.
 
 ---
 
