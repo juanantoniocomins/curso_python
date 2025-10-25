@@ -48,4 +48,39 @@ Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini p
  ┣ 📄 requirements.txt
  ┗ 📜 main.py
 
-<img width="218" height="412" alt="image" src="https://github.com/user-attachments/assets/a2360e56-bf9a-44b1-9537-95e67e377a62" />
+## 🎯 Objetivos del curso
+
+✔️ Comprender los fundamentos de Python con solidez.  
+✔️ Aprender buenas prácticas y escribir código limpio.  
+✔️ Dominar la POO y el uso de librerías modernas.  
+✔️ Prepararte para proyectos reales de IA, Big Data o desarrollo web.
+
+---
+
+## 🧰 Tecnologías y herramientas
+
+| Herramienta | Uso principal |
+|--------------|---------------|
+| 🐍 **Python 3.x** | Lenguaje base |
+| 💻 **VS Code / Jupyter** | Entorno de desarrollo |
+| ⚙️ **Git / GitHub** | Control de versiones |
+| 📦 **pip / venv** | Gestión de dependencias |
+
+---
+
+## 🌱 Próximas mejoras
+
+- [ ] Incorporar notebooks interactivos (Jupyter).  
+- [ ] Añadir ejemplos de automatización real.  
+- [ ] Mini proyecto de API con **Flask** o **FastAPI**.  
+- [ ] Integrar análisis de datos con **Pandas** y **NumPy**.
+
+---
+
+## 👨‍💻 Autor
+
+**Juan Antonio Comins**  
+Técnico Superior en Informática y Telecomunicaciones.  
+Apasionado por la programación, los sistemas y la inteligencia artificial.
+
+🌐 [GitHub](https://github.com/juanantoniocomins) · [LinkedIn](#) · [Portfolio](#)
