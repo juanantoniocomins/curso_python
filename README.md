@@ -5,7 +5,7 @@
 
 <!-- Banner principal -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/juanantoniocomins/curso_python/main/assets/banner_python.png" alt="Curso de Python — Nivel Profesional" width="800">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="200">
 </p>
 
 <h1 align="center">🐍 Curso de Python — Nivel Profesional</h1>
