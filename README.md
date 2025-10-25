@@ -26,12 +26,17 @@
 
 ## 🧠 Descripción
 
-Este repositorio forma parte de mi **curso de Python**, donde se abordan desde los fundamentos hasta temas avanzados:  
-estructuras de datos, programación orientada a objetos, manejo de errores, ficheros, módulos, librerías útiles y automatización.  
+Este repositorio contiene el material completo de mi **curso de Python profesional**, diseñado para llevarte desde los conceptos fundamentales hasta técnicas avanzadas de programación. A lo largo del curso, explorarás en profundidad:
 
-Cada módulo está diseñado con ejemplos claros, ejercicios prácticos y mini proyectos que consolidan el aprendizaje paso a paso.
+- **Fundamentos sólidos**: sintaxis, tipos de datos, control de flujo y estructuras básicas
+- **Estructuras de datos**: listas, diccionarios, conjuntos, tuplas y su aplicación práctica  
+- **Programación orientada a objetos**: clases, herencia, polimorfismo y encapsulación
+- **Gestión profesional**: manejo de errores, archivos, módulos y paquetes
+- **Herramientas modernas**: librerías esenciales y automatización de tareas
 
-> 💡 **Consejo:** sigue el orden de los módulos para aprovechar la curva de aprendizaje progresiva.
+Cada módulo incluye explicaciones claras, ejemplos comentados, ejercicios progresivos y mini proyectos que consolidan el aprendizaje. El curso está pensado tanto para principiantes que quieren bases sólidas como para desarrolladores que buscan perfeccionar sus habilidades.
+
+> 💡 **Recomendación:** Sigue el orden de los módulos, completa los ejercicios y experimenta modificando el código para profundizar en tu comprensión.
 
 ---
 
