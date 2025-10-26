@@ -362,4 +362,15 @@ print("Hola")
 ![Alt](ruta/imagen.png)
 ```
 
-Esta plantilla incluye todos los elementos que solicitaste y está lista para usar en tu repositorio de GitHub. Puedes copiarla y adaptarla según tus necesidades específicas para cada tema de Python que documentes.[2][4][5][6][7]
+📌 PIE DE DOCUMENTO
+<div align="center">
+
+✍️ Autor: Juanan Comins
+📅 Última actualización: 26 de octubre de 2025
+📁 Repositorio: github.com/juanantoniocomins
+
+📧 Contacto: tu-email@ejemplo.com
+
+⭐ Licencia: MIT License
+
+</div>
