@@ -363,7 +363,7 @@ print("Hola")
 ```
 
 📌 PIE DE DOCUMENTO
-<div align="center">
+<div align="left">
 
 ✍️ Autor: Juanan Comins
 📅 Última actualización: 26 de octubre de 2025
