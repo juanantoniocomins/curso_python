@@ -65,10 +65,10 @@
 <a href="https://github.com/juanantoniocomins" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-juanantoniocomins-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/tuusuario" target="_blank">
+<a href="[https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/juan-comins-9222aa212/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:tu-email@ejemplo.com">
+<a href="mailto:juanancomins@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
