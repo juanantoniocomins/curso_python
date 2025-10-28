@@ -5,7 +5,7 @@
 ### *Guía técnica y profesional sobre las bases del lenguaje*
 
 ![Versión](https://img.shields.io/badge/Versión-2.0-1565C0?style=for-the-badge)
-![Actualización](https://img.shields.io/badge/Actualizado-2025--01--23-43A047?style=for-the-badge)
+![Actualización](https://img.shields.io/badge/Actualizado-2025--10--19-43A047?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Estable-00C853?style=for-the-badge)
 
 </div>
