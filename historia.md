@@ -12,25 +12,17 @@
 
 ---
 
-<div align="justify">
-
-Historia:
-
-Creado por <u>Guido van Rossum</u> a finales de los <u>años 80</u> en el <u>CWI (Centrum Wiskunde & Informatica)</u> de los Países Bajos.
-
-Su desarrollo comenzó durante las <u>vacaciones de Navidad de 1989</u>, con la idea de crear un lenguaje que combinara <u>potencia</u>, <u>simplicidad</u> y <u>legibilidad</u>.
-
-El nombre <u>“Python”</u> no proviene del animal, sino del grupo humorístico británico “Monty Python’s Flying Circus”.
-
-En <u>1991</u> se lanzó la primera versión pública: <u>Python 0.9.0</u>, que ya incluía <u>módulos</u>, <u>manejo de excepciones</u>, <u>funciones</u> y <u>tipos de datos básicos</u>.
-
-En el año <u>2000</u> se publicó <u>Python 2.0</u>, introduciendo el <u>colector de basura</u> y el soporte para <u>Unicode</u>, impulsando su adopción masiva.
-
-En <u>2008</u> se presentó <u>Python 3.0</u>, una versión no retrocompatible que <u>modernizó la sintaxis</u>, <u>mejoró la gestión de texto</u> y <u>optimizó la consistencia interna</u> del lenguaje.
-
-Durante la <u>década de 2010</u>, el lenguaje creció exponencialmente gracias a su papel en la <u>inteligencia artificial</u>, <u>análisis de datos</u>, <u>desarrollo web</u> y <u>automatización</u>.
-
-Hoy, <u>Python</u> es uno de los lenguajes más <u>populares del mundo</u>, mantenido por la <u>Python Software Foundation</u>, con una <u>comunidad global</u> que sigue expandiendo sus posibilidades.
+<div align="justify"> 
+  
+**Historia:** 
+- Creado por Guido van Rossum a finales de los años 80 en el CWI (Centrum Wiskunde & Informatica) de los Países Bajos.
+- Su desarrollo comenzó durante las vacaciones de Navidad de 1989, con la idea de crear un lenguaje que combinara potencia, simplicidad y legibilidad.
+- El nombre “Python” no proviene del animal, sino del grupo humorístico británico “Monty Python’s Flying Circus”, del que Guido era fan.
+- En 1991 se lanzó la primera versión pública: Python 0.9.0, que ya incluía módulos, manejo de excepciones, funciones y tipos de datos básicos.
+- En el año 2000 se publicó Python 2.0, introduciendo el colector de basura y soporte para Unicode, impulsando su adopción masiva.
+- En 2008 se presentó Python 3.0, una versión no retrocompatible que modernizó la sintaxis, mejoró la gestión de texto y optimizó la consistencia interna del lenguaje.
+- Durante la década de 2010, el lenguaje creció exponencialmente gracias a su papel en la inteligencia artificial, análisis de datos, desarrollo web y automatización.
+- Hoy, Python es uno de los lenguajes más populares del mundo, mantenido por la Python Software Foundation, con una comunidad global que sigue expandiendo sus posibilidades.
 
 </div>
 
