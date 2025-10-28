@@ -15,7 +15,7 @@
 <div align="justify"> 
   
 **Historia:** 
-- Creado por Guido van Rossum a finales de los años 80 en el CWI (Centrum Wiskunde & Informatica) de los Países Bajos.
+- Creado por <b>Guido van Rossum</b> a finales de los años 80 en el CWI (Centrum Wiskunde & Informatica) de los Países Bajos.
 - Su desarrollo comenzó durante las vacaciones de Navidad de 1989, con la idea de crear un lenguaje que combinara potencia, simplicidad y legibilidad.
 - El nombre “Python” no proviene del animal, sino del grupo humorístico británico “Monty Python’s Flying Circus”, del que Guido era fan.
 - En 1991 se lanzó la primera versión pública: Python 0.9.0, que ya incluía módulos, manejo de excepciones, funciones y tipos de datos básicos.
