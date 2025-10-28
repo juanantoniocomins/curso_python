@@ -1,4 +1,4 @@
-<div align="center">
+<div align="leff">
 
 # 🎯 Caracteristicas de Python
 
