@@ -1,75 +1,94 @@
 <div align="center">
 
-# 🎯 **Características de Python**
+# 🐍 **Características de Python**
 
-### *Guía completa de elementos para documentación técnica profesional*
+### *Guía técnica y profesional sobre las bases del lenguaje*
 
-![Versión](https://img.shields.io/badge/Versión-2.0-blue?style=for-the-badge)
-![Actualización](https://img.shields.io/badge/Actualizado-2025--01--23-success?style=for-the-badge)
+![Versión](https://img.shields.io/badge/Versión-2.0-1565C0?style=for-the-badge)
+![Actualización](https://img.shields.io/badge/Actualizado-2025--01--23-43A047?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Estable-00C853?style=for-the-badge)
 
 </div>
 
 ---
 
-## ⚙️ **Características principales de Python**
+## ⚙️ **Características principales**
 
-- **Lenguaje de alto nivel:** sintaxis muy cercana al lenguaje natural, fácil de leer y escribir.  
-- **Tipado dinámico:** no es necesario declarar el tipo de variable, ya que se determina en tiempo de ejecución.  
-- **Fuertemente tipado:** cada cambio de tipo requiere una conversión explícita.  
+- **Lenguaje de alto nivel:** sintaxis cercana al lenguaje natural, fácil de leer y escribir.  
+- **Tipado dinámico:** no es necesario declarar el tipo de variable; se determina en tiempo de ejecución.  
+- **Fuertemente tipado:** cada conversión de tipo requiere ser explícita.  
 - **Orientado a objetos:** soporta interfaces, polimorfismo, herencia múltiple, encapsulación y sobrecarga de constructores.  
-- **Open Source:** código abierto y gratuito, con una amplia comunidad activa.  
-- **Interpretado:** se ejecuta línea por línea en tiempo de ejecución, sin necesidad de compilación previa.  
-- **Multiparadigma:** permite programación orientada a objetos, estructurada, funcional e imperativa.  
+- **Código abierto (Open Source):** gratuito, con una comunidad global muy activa.  
+- **Interpretado:** no necesita compilación; ejecuta el código línea a línea en tiempo real.  
+- **Multiparadigma:** combina programación orientada a objetos, estructurada, funcional e imperativa.  
 - **Multiplataforma:** disponible en Windows, macOS y Linux.  
-- **Gestión automática de memoria:** mediante un recolector de basura (garbage collector).  
-- **De propósito general:** aplicable a desarrollo de escritorio, servidores, web, inteligencia artificial y análisis de datos.
+- **Gestión automática de memoria:** utiliza un recolector de basura (garbage collector).  
+- **De propósito general:** aplicable a desarrollo web, backend, IA, análisis de datos y automatización.
 
----
+<hr style="border:0.5px solid #ccc; margin: 25px 0;">
 
-## 🟢 **Ventajas de Python**
+## 🟢 **Ventajas del lenguaje**
 
-- Sintaxis clara y legible, ideal para principiantes y profesionales.  
-- Amplia biblioteca estándar y miles de módulos de terceros.  
-- Gran comunidad de desarrolladores y abundante documentación.  
-- Fácil integración con otros lenguajes como **C** y **C++**.  
-- Excelente para automatizaciones, scripting y prototipado rápido.  
-- Altamente compatible con frameworks modernos de IA, análisis de datos y desarrollo web.  
+- Sintaxis limpia, legible y coherente.  
+- Ecosistema rico: miles de librerías y frameworks.  
+- Enorme comunidad y soporte documental.  
+- Integra fácilmente con **C/C++**, Java y otros lenguajes.  
+- Ideal para **automatizaciones**, scripting y prototipos rápidos.  
+- Gran compatibilidad con IA, análisis de datos y desarrollo web.  
 
----
+<hr style="border:0.5px solid #ccc; margin: 25px 0;">
 
-## 🔴 **Desventajas de Python**
+## 🔴 **Desventajas o limitaciones**
 
-- Menor velocidad de ejecución comparado con lenguajes compilados como **C++** o **Java**.  
-- Mayor consumo de memoria que los lenguajes de bajo nivel.  
-- No es óptimo para el desarrollo de aplicaciones móviles nativas.  
-- Requiere de un intérprete, lo que puede complicar la distribución de programas.  
-- Limitado en entornos donde el rendimiento extremo es crítico (por ejemplo, sistemas embebidos o tiempo real).
+- Menor velocidad frente a lenguajes compilados como **C++** o **Java**.  
+- Mayor consumo de memoria.  
+- No óptimo para apps móviles nativas.  
+- Requiere intérprete (más difícil de distribuir).  
+- Menos adecuado para sistemas embebidos o de tiempo real.  
 
 ---
 
 <div align="center">
 
-## 📬 **INFORMACIÓN DEL DOCUMENTO**
+## 📄 **Información del documento**
 
 <table>
 <tr>
-<td align="center" bgcolor="#1E1E1E" style="color: white; padding: 20px; border-radius: 8px;">
+<td align="center" bgcolor="#212121" style="color:white; padding:20px; border-radius:10px;">
 
-### 👤 **AUTOR**
+### 👤 **Autor**
 
 **Juanan Comins**
 
 <a href="https://github.com/juanantoniocomins" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-juanantoniocomins-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="[https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/juan-comins-9222aa212/)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/juan-comins-9222aa212/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Juanan_Comins-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:juanancomins@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%" bgcolor="#0D47A1" style="color:white; padding:12px; border-radius:8px;">
+📅 **Última actualización**  
+23 de enero de 2025
+</td>
+<td align="center" width="33%" bgcolor="#2E7D32" style="color:white; padding:12px; border-radius:8px;">
+🧩 **Versión del documento**  
+v2.0 — *Revisión mejorada*
+</td>
+<td align="center" width="34%" bgcolor="#C62828" style="color:white; padding:12px; border-radius:8px;">
+⚖️ **Licencia**  
+MIT License
 </td>
 </tr>
 </table>
