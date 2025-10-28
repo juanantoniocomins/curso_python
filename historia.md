@@ -15,19 +15,6 @@
 <div align="justify"> 
   
 **Historia:** 
-- Creado por <b><font color="blue">Guido van Rossum</font></b> a finales de los años 80 en el CWI (Centrum Wiskunde & Informatica) de los Países Bajos.
-- Su desarrollo comenzó durante las vacaciones de Navidad de 1989, con la idea de crear un lenguaje que combinara potencia, simplicidad y legibilidad.
-- El nombre “Python” no proviene del animal, sino del grupo humorístico británico “Monty Python’s Flying Circus”, del que Guido era fan.
-- En 1991 se lanzó la primera versión pública: Python 0.9.0, que ya incluía módulos, manejo de excepciones, funciones y tipos de datos básicos.
-- En el año 2000 se publicó Python 2.0, introduciendo el colector de basura y soporte para Unicode, impulsando su adopción masiva.
-- En 2008 se presentó Python 3.0, una versión no retrocompatible que modernizó la sintaxis, mejoró la gestión de texto y optimizó la consistencia interna del lenguaje.
-- Durante la década de 2010, el lenguaje creció exponencialmente gracias a su papel en la inteligencia artificial, análisis de datos, desarrollo web y automatización.
-- Hoy, Python es uno de los lenguajes más populares del mundo, mantenido por la Python Software Foundation, con una comunidad global que sigue expandiendo sus posibilidades.
-
-</div>
-<div align="justify"> 
-  
-**Historia:** 
 - Creado por **<u>Guido van Rossum</u>** a finales de los **años 80** en el **CWI (Centrum Wiskunde & Informatica)** de los Países Bajos.
 - Su desarrollo comenzó durante las **vacaciones de Navidad de 1989**, con la idea de crear un lenguaje que combinara **potencia**, **simplicidad** y **legibilidad**.
 - El nombre **“Python”** no proviene del animal, sino del grupo humorístico británico **“Monty Python’s Flying Circus”**, del que Guido era fan.
@@ -38,7 +25,6 @@
 - Hoy, **Python** es uno de los lenguajes más **populares del mundo**, mantenido por la **Python Software Foundation**, con una **comunidad global** que sigue expandiendo sus posibilidades.
 
 </div>
-
 
 ---
 
