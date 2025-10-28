@@ -12,6 +12,7 @@
 
 ---
 
+<div align="justify">
 **Historia:**
 - Creado por Guido van Rossum a finales de los años 80 en el CWI (Centrum Wiskunde & Informatica) de los Países Bajos.
 
@@ -29,7 +30,7 @@
 
 - Hoy, Python es uno de los lenguajes más populares del mundo, mantenido por la Python Software Foundation, con una comunidad global que sigue expandiendo sus posibilidades.
 
-
+</div>
 
 ---
 
