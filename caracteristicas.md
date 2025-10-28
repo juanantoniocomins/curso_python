@@ -74,23 +74,4 @@
 </tr>
 </table>
 
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%" bgcolor="#0D47A1" style="color:white; padding:12px; border-radius:8px;">
-📅 **Última actualización**  
-23 de enero de 2025
-</td>
-<td align="center" width="33%" bgcolor="#2E7D32" style="color:white; padding:12px; border-radius:8px;">
-🧩 **Versión del documento**  
-v2.0 — *Revisión mejorada*
-</td>
-<td align="center" width="34%" bgcolor="#C62828" style="color:white; padding:12px; border-radius:8px;">
-⚖️ **Licencia**  
-MIT License
-</td>
-</tr>
-</table>
-
 </div>
