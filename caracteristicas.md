@@ -8,8 +8,6 @@
 ![Actualización](https://img.shields.io/badge/Actualizado-2025--01--23-success?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Estable-00C853?style=for-the-badge)
 
----
-
 </div>
 
 ---
