@@ -12,9 +12,7 @@
 
 ---
 
-## ⚙️ **Características principales**
-
-- **Creado por Guido Van Rossum, comienzos de los 90.
+- Creado por Guido Van Rossum, comienzos de los 90.
 
 
 
