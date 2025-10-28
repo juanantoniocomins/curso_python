@@ -13,7 +13,9 @@
 ---
 
 <div align="justify">
+  
 **Historia:**
+
 - Creado por Guido van Rossum a finales de los años 80 en el CWI (Centrum Wiskunde & Informatica) de los Países Bajos.
 
 - Su desarrollo comenzó durante las vacaciones de Navidad de 1989, con la idea de crear un lenguaje que combinara potencia, simplicidad y legibilidad.
