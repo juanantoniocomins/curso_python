@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🐍 **Características de Python**
+# 🐍 **Frameworks de Python**
 
-### *Guía técnica y profesional sobre las bases del lenguaje*
+### *Guía técnica y profesional sobre los principales frameworks del ecosistema Python*
 
 ![Versión](https://img.shields.io/badge/Versión-2.0-1565C0?style=for-the-badge)
 ![Actualización](https://img.shields.io/badge/Actualizado-2025--10--20-43A047?style=for-the-badge)
