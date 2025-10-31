@@ -32,7 +32,7 @@ Este repositorio contiene un curso completo y estructurado de Python, desde fund
 
 | Módulo | Tema | Duración | Dificultad |
 |--------|------|----------|------------|
-| [01](modulos/01_fundamentos/) | **Fundamentos** | 3-4h | ⭐ |
+| [01](modulos/01_fundamentos/) | **Fundamentos** | 10-2025 | ⭐ |
 | [02](modulos/02_estructuras_control/) | **Estructuras de control** | 4-5h | ⭐ |
 | [03](modulos/03_estructuras_datos/) | **Estructuras de datos** | 5-6h | ⭐⭐ |
 | [04](modulos/04_funciones/) | **Funciones y alcance** | 4-5h | ⭐⭐ |
