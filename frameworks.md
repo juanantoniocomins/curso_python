@@ -11,14 +11,14 @@
 </div>
 
 ---
-<p align="justify">
+<div align="justify">
 
 Python cuenta con una amplia variedad de **frameworks** que aceleran el desarrollo de aplicaciones, ofreciendo herramientas, estructuras y librerías ya preparadas para diferentes fines.  
 Desde potentes entornos web como **Django** o **FastAPI**, hasta frameworks de **interfaces gráficas**, **aplicaciones móviles** o **inteligencia artificial**, cada uno se adapta a un tipo de proyecto y nivel de complejidad.  
 
 Esta guía resume los frameworks más relevantes, sus usos principales, cómo instalarlos y algunos detalles técnicos clave que te ayudarán a elegir el más adecuado según tus necesidades profesionales o académicas.
 
-</p>
+</div>
 <div aling="center>
 <table>
 <tr>
