@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐍 **Frameworks de Python**
+# 🐍 **Frameworks: Python**
 
 ### *Guía técnica y profesional sobre los principales frameworks del ecosistema Python*
 
