@@ -194,17 +194,6 @@ numero = "diez"    # ahora es str
 
 ---
 
-## 🏋️ Ejercicio rápido
-
-Crea variables para almacenar:
-- Tu nombre
-- Tu edad
-- Tu altura
-- Si eres estudiante
-```python
-# Tu código aquí
-```
-
 ---
 
 ## ➡️ Siguiente tema
