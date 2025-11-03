@@ -37,7 +37,7 @@ Esto se debe a que Python es un lenguaje **dinámicamente tipado**, lo que signi
 | ✅ **Caracteres válidos** | Letras (`a-z`, `A-Z`), números (`0-9`) y guiones bajos (`_`) |
 | 🚫 **Inicio** | Deben comenzar con una letra o guion bajo (**no con un número**) |
 | 🔠 **Sensibilidad** | Son sensibles a mayúsculas/minúsculas → `edad` ≠ `Edad` |
-| ⛔ **Palabras reservadas** | No pueden usar *keywords* de Python (`if`, `for`, `class`, etc.) |
+| ⛔ **Palabras reservadas** | No pueden usar *keywords* de Python (`if`, `for`, `class`, etc.). Ver palabras_reservadas.md|
 
 ---
 
