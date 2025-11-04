@@ -87,22 +87,26 @@ print(isinstance(x, list))  # True
 
 ## 📊 **Tabla completa de tipos de datos**
 
-| 🧱 Categoría | 🧠 Tipo | 📖 Descripción | 💡 Ejemplo |
-|--------------|---------|----------------|-------------|
-| 🔢 Numérico | `int` | Enteros positivos o negativos | `x = 42` |
-|  | `float` | Números decimales (punto flotante) | `pi = 3.1416` |
-|  | `complex` | Números complejos con parte imaginaria | `z = 2 + 3j` |
-| 💬 Texto | `str` | Cadenas de caracteres | `nombre = "Python"` |
-| ⚙️ Booleano | `bool` | Verdadero o falso (`True` / `False`) | `activo = True` |
-| 📦 Secuencia | `list` | Lista mutable y ordenada | `colores = ["rojo", "verde", "azul"]` |
-|  | `tuple` | Tupla inmutable y ordenada | `coordenadas = (10, 20)` |
-|  | `range` | Rango de números enteros | `rango = range(5)` |
-| 🧮 Conjunto | `set` | Conjunto sin duplicados | `nums = {1, 2, 3}` |
-|  | `frozenset` | Conjunto inmutable | `fs = frozenset({1, 2, 3})` |
-| 🗂️ Mapeo | `dict` | Pares clave:valor | `persona = {"nombre": "Juan", "edad": 30}` |
-| 💾 Binario | `bytes` | Secuencia inmutable de bytes | `b = b"Hola"` |
-|  | `bytearray` | Secuencia mutable de bytes | `ba = bytearray(5)` |
-| 🚫 Nulo | `NoneType` | Representa ausencia de valor | `x = None` |
+| Categoría | Tipo | Ejemplo | Descripción |
+|------------|------|----------|--------------|
+| **Numéricos** | `int` | `x = 42` | Números enteros (positivos o negativos, sin decimales). |
+|  | `float` | `pi = 3.1416` | Números con decimales. |
+|  | `complex` | `z = 2 + 3j` | Números complejos con parte real e imaginaria. |
+| **Texto** | `str` | `nombre = "Python"` | Cadenas de texto (secuencias de caracteres Unicode). |
+| **Booleanos** | `bool` | `activo = True` | Valores lógicos: `True` o `False`. |
+| **Secuencias** | `list` | `numeros = [1, 2, 3]` | Lista ordenada y mutable. Permite distintos tipos de datos. |
+|  | `tuple` | `coordenadas = (10, 20)` | Tupla ordenada e inmutable. |
+|  | `range` | `rango = range(5)` | Secuencia numérica generada automáticamente. |
+| **Colecciones sin orden** | `set` | `colores = {"rojo", "verde", "azul"}` | Conjunto sin elementos duplicados ni orden. |
+|  | `frozenset` | `dias = frozenset(["lu", "ma", "mi"])` | Versión inmutable de un `set`. |
+| **Mapeos (clave-valor)** | `dict` | `usuario = {"nombre": "Juan", "edad": 30}` | Diccionario de pares clave-valor. Mutable y muy utilizado. |
+| **Binarios** | `bytes` | `data = b"Hola"` | Secuencia inmutable de bytes. |
+|  | `bytearray` | `ba = bytearray(5)` | Versión mutable de `bytes`. |
+|  | `memoryview` | `mv = memoryview(b"Hola")` | Vista de memoria eficiente para manipular datos binarios. |
+| **Nulos / especiales** | `NoneType` | `valor = None` | Representa la ausencia de valor o un valor nulo. |
+| **Tipos avanzados** | `type` | `type(x)` | Devuelve o define el tipo de un objeto. |
+|  | `object` | `obj = object()` | Clase base de todos los objetos en Python. |
+|  | `callable`, `function`, `module`, `class` | — | Tipos definidos a nivel interno para funciones, módulos y clases. |
 
 ---
 
