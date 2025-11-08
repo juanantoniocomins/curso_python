@@ -50,31 +50,6 @@ Esto se debe a que Python es un lenguaje **dinámicamente tipado**, lo que signi
 
 ---
 
-## ⚙️ **Declaración y asignación**
-
-```python
-# Asignación simple
-nombre_variable = valor
-
-# Asignación múltiple del mismo valor
-var1 = var2 = var3 = valor
-
-# Asignación múltiple con distintos valores
-var1, var2, var3 = valor1, valor2, valor3
-
-nombre = "Juanan"
-edad = 30
-altura = 1.80
-activo = True
-
-# Asignación múltiple
-x = y = z = 0
-
-# Desempaquetado múltiple
-a, b, c = 10, 20, 30
-
----
-
 <div align="center">
 
 ## 📄 **Información del documento**
