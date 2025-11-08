@@ -73,6 +73,8 @@ x = y = z = 0
 # Desempaquetado múltiple
 a, b, c = 10, 20, 30
 
+---
+
 <div align="center">
 
 ## 📄 **Información del documento**
