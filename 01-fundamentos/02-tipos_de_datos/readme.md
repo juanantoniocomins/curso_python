@@ -157,7 +157,7 @@ x = [1, 2, 3]
 print(type(x))            # <class 'list'>
 print(isinstance(x, list))  # True
 
-```python
+```
 
 <div align="center">
 
