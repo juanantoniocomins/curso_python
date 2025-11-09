@@ -1,3 +1,18 @@
+<div align="center">
+
+# 🐍 **Entrada/Salida de datos**
+
+### *Guía técnica y profesional sobre las bases del lenguaje*
+
+![Versión](https://img.shields.io/badge/Versión-2.0-1565C0?style=for-the-badge)
+![Actualización](https://img.shields.io/badge/Actualizado-2025--10--19-43A047?style=for-the-badge)
+![Estado](https://img.shields.io/badge/Estado-Estable-00C853?style=for-the-badge)
+
+</div>
+
+---
+💡 Aprende cómo interactuar con el usuario mediante la captura y presentación de información en programas Python. Esta sección cubre las funciones básicas de entrada (input()) y salida (print()), sus usos, buenas prácticas y ejemplos aplicados.
+
 ---
 
 <div align="center">
