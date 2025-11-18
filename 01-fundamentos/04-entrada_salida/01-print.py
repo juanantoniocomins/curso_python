@@ -1,0 +1,37 @@
+"""
+print() es una función incorporada en Python que muestra información por pantalla. 
+En Python 3 siempre debe usarse con paréntesis, por ejemplo print("Hola"). 
+Al ejecutarla, los valores pasados se convierten a texto legible y se envían a la salida estándar (la pantalla)
+
+La función print() acepta varios argumentos separados por comas.
+
+print(*objects, sep=' ', end='\n', file=sys.stdout, flush=False)
+        ===================================================================================================================================================================================================================
+        Parámetro	Descripción	                                                                                                                                Valor por Defecto
+===================================================================================================================================================================================================================        
+        *objects	Los valores (variables, expresiones, cadenas, etc.) a imprimir. Es el único argumento que se debe proporcionar al menos con un valor.	        — (No tiene; es la información obligatoria)
+        sep	        La cadena de texto que se insertará entre los objetos si se proporcionan múltiples argumentos (separados por comas).	                        ' ' (Un espacio en blanco)
+        end	        La cadena de texto que se agregará al final de la salida. Controla qué ocurre después de que se ha impreso todo el contenido.	                '\n' (Un salto de línea)
+        file	    El objeto de archivo o stream (flujo de datos) donde se enviará la salida.	                                                                        sys.stdout (La consola o terminal)
+        flush	    Un valor booleano que indica si la salida del stream (como la consola) debe vaciarse forzadamente (escribirse inmediatamente).	                False (El sistema operativo optimiza cuándo escribir la salida)
+
+"""
+
+print("hola mundo1!!!")
+print('hola mundo2!!!')
+
+cad1 = "Hola"
+cad2 = " Mundo3"
+cad3 = "!!!"
+
+print(cad1 + cad2 + cad3)
+
+cad4 = "hola"
+cad5 = "mundo4"
+cad6 = "!!!"
+
+print(cad4 , cad5 , cad6)
+
+# se puede usuar como salto de linea
+print("")
+
